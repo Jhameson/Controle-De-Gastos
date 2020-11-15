@@ -1,0 +1,39 @@
+
+FONTE PADRAO texto : Segoe UI - TAM 14
+VERDE PADRAO DE BOTOES: [0,102,51]
+VERMELHO PADRAO DE BOTOES: [204,0,51]
+
+
+
+PADRÃO BOTÕES GERAIS: verticalSIZE 30
+                      font Segoe UI
+                      borderPainted false
+                      focusPainted false
+                      tam fonte 12
+                      cor 02 - [153,153,153] cinza
+
+Telas Da aplicação: tamanho - altura 450 - largura 800
+                    cor de fundo 01 - AZUL escuro[0,102,255]
+                    cor de fundo 02 - azul claro [153,204,255]
+
+
+Tela receita e Despesa: tam - 600 x 300
+                        receita cor - [0,204,0]
+                        despesa cor - 204,0,51
+
+tela de login
+    titulo - fonte: linux libertine G
+    textos - fonte: tahoma
+    botoes - fonte: Segoe UI
+    
+
+//rascunhos
+
+
+tela estatistica contem
+    maior receita
+    maior despesa
+    despesas no ano
+    receitas no ano
+    valor de receita em cada mês
+    
